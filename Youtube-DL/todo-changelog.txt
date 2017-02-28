@@ -1,0 +1,16 @@
+v.01
+added - download and embed on thumbnail
+todo - audio only?, set dir to exe location, maybe a quality variable?
+
+2-3-17 v.02
+added - audio only, audio formats
+todo - quality variable, download location?
+
+2-12-17 v.02.1
+added - "URL to OGG.bat" to make process as minimal as possible in comparison to doing it with the "RUN THIS.bat", updated the "readme.txt"
+todo - unchanged, see "2-3-17"
+
+2-27-17 v.02.2
+fixed - variables not being reset after the script looped
+added - @echo off to "URL to OGG.bat" and "RUN THIS.bat" minimize the clutter in the terminal
+todo - unchanged, see "2-3-17"
