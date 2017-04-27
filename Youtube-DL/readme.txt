@@ -12,6 +12,5 @@ FFmpeg and FFprobe - https://ffmpeg.org/
 
 //
 
-Any suggestions or feedback are appreciated! Please direct them towards CookieDefender through some channel. Best channels at this current version (v.02.1)is through the Whiskey Squad Discord in the TMM channel or Steam Message (http://steamcommunity.com/id/DefenderOfCookies/
-
+Any suggestions or feedback are appreciated! Please direct them towards CookieDefender through gitHub (https://github.com/CookieDefender/CookieDownloader)
 //
