@@ -15,6 +15,6 @@ fixed - variables not being reset after the script looped
 added - @echo off to "URL to OGG.bat" and "RUN THIS.bat" minimize the clutter in the terminal
 todo - unchanged, see "2-3-17"
 
-2-25-16 v.0.2.0
+4-26-17 v.0.2.0
 added - custom directory support, default download directory (when you say N to the custom directory prompt) is now Youtube Downloads within the youtube-dl.exe folder
 todo - quality variable?
