@@ -18,3 +18,7 @@ todo - unchanged, see "2-3-17"
 4-26-17 v.0.2.0
 added - custom directory support, default download directory (when you say N to the custom directory prompt) is now Youtube Downloads within the youtube-dl.exe folder
 todo - quality variable?
+
+5-1-16 v.0.2.1
+added - directory for URL TO OGG, updated YouTube-DL
+todo - unchanged, see "4-26-17"
