@@ -22,3 +22,7 @@ todo - quality variable?
 5-1-16 v.0.2.1
 added - directory for URL TO OGG, updated YouTube-DL
 todo - unchanged, see "4-26-17"
+
+5-1-16 v.0.2.2
+added - updated Youtube-DL
+todo - unchanged, see "5-18-17"
